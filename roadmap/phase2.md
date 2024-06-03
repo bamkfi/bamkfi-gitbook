@@ -1,5 +1,5 @@
 ---
-description: Via onchain perpetual swaps
+description: Via Onchain Perpetual Swaps
 ---
 
 # Phase 2 - Delta Neutral Hedging
