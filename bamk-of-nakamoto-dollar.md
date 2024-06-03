@@ -30,7 +30,7 @@ At block 846,324, Alice buys 5,000 NUSD. At this block height, the current TVL i
 
 This means for every block she holds her 5,000 NUSD, her address will accrue 0.709%\*31,250 = 221 BAMK tokens.
 
-The APY figure shown on [https://www.bamk.fi/](https://www.bamk.fi/) is calculated by using the current BAMK token price. The final figure will fluctuate depending on current NUSD TVL and current BAMK price.
+The APY figure shown on [https://www.bamk.fi/](https://www.bamk.fi/) is calculated by using the current BAMK token price - the amount will fluctuate depending on current NUSD TVL and current BAMK price.
 
 <figure><img src=".gitbook/assets/Screenshot 2024-06-03 at 10.54.45.png" alt=""><figcaption></figcaption></figure>
 
