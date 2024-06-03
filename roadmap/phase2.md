@@ -14,6 +14,8 @@ We see onchain perps volume exceeding centralized exchange perp volume in the fu
 
 Enabling hedging directly onchain means we mitigate the largest risk factor in the creation of synthetic dollars - centralized exchange custody risk.
 
+This further enables all positions to be transparent to the world at all times. Users can see actual positions being opened or closed by the Bamkfi protocol.
+
 ## Delta-Neutral Position
 
 In finance, a delta-neutral portfolio means despite the assets you hold going up and down in price, your portfolio value remains the same.&#x20;
