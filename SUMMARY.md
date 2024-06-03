@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bamkfi Overview](README.md)
+* [Bamk.fi Overview](README.md)
 * [BAMK•OF•NAKAMOTO•DOLLAR](bamk-of-nakamoto-dollar.md)
 
 ## ROADMAP

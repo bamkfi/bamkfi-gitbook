@@ -1,12 +1,12 @@
 # FAQs
 
-### Who is the team behind Bamkfi?
+### Who is the team behind Bamk.fi?
 
 932 degens and counting.
 
 The core team has mostly been doxxed if you have been active enough on X or Telegram
 
-### Is Bamkfi funded by VCs?
+### Is Bamk.fi funded by VCs?
 
 No.&#x20;
 
@@ -30,7 +30,7 @@ The term Nakamoto Dollar or NakaDollar was coined by Arthur Hayes in his [Dust o
 
 
 
-_Please submit any questions you wish to be added to this page in the_ [_Bamkfi telegram_](https://t.me/bamkfi)
+_Please submit any questions you wish to be added to this page in the_ [_Bamk.fi telegram_](https://t.me/bamkfi)
 
 
 

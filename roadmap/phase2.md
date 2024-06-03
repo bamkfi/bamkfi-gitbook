@@ -6,7 +6,7 @@ description: Via Onchain Perpetual Swaps
 
 In phase 2, we will start our hedging program. We have a trading firm we have worked with before who will help execute and manage the delta-neutral hedging program.
 
-Bamkfi plans to execute the delta-neutral hedging program only through onchain perpetual swaps. We are carefully monitoring trading volumes and Open Interest of various perpetual DEXes on several blockchains.
+Bamk.fi plans to execute the delta-neutral hedging program only through onchain perpetual swaps. We are carefully monitoring trading volumes and Open Interest of various perpetual DEXes on several blockchains.
 
 Longer-term the development of the [Nakamoto Index](nakamoto-index.md) will provide onchain prices not requiring any centralized third-party oracles and enable [onchain perpetual swaps](bitcoin-perpetual-swaps.md) on Bitcoin itself.
 
@@ -14,7 +14,7 @@ We see onchain perps volume exceeding centralized exchange perp volume in the fu
 
 Enabling hedging directly onchain means we mitigate the largest risk factor in the creation of synthetic dollars - centralized exchange custody risk.
 
-This further enables all positions to be transparent to the world at all times. Users can see actual positions being opened or closed by the Bamkfi protocol.
+This further enables all positions to be transparent to the world at all times. Users can see actual positions being opened or closed by the Bamk.fi protocol.
 
 ## Delta-Neutral Position
 
@@ -36,7 +36,7 @@ You are going both long and short in equal amounts, simultaneously. This in effe
 
 The ability to keep your $10,000 BTC portfolio delta-neutral means you can take your same portfolio and use it as backing for $10,000 worth of synthetic dollars. This is what the Nakamoto Dollar (NUSD) is.
 
-Bamkfi receives BTC from people who want to mint NUSD. Bamkfi then opens an equally sized position going short BTC on the perpetuals pair. This creates the delta-neutral position. Bamkfi can then issue fresh NUSD and have it be backed by the delta-neutral portfolio.
+Bamk.fi receives BTC from people who want to mint NUSD. Bamk.fi then opens an equally sized position going short BTC on the perpetuals pair. This creates the delta-neutral position. Bamk.fi can then issue fresh NUSD and have it be backed by the delta-neutral portfolio.
 
 ## Bitcoin Bond and the Funding Rate&#x20;
 

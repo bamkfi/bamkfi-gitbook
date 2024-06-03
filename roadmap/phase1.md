@@ -1,6 +1,6 @@
 # Phase 1 - USDe Backing
 
-In order to bootstrap and accelerate our launch, Bamkfi's NUSD is backed 1:1 by Ethena's USDe in phase 1. This is held as Staked USDe (sUSDe) in our multi-sig backing address:
+In order to bootstrap and accelerate our launch, Bamk.fi's NUSD is backed 1:1 by Ethena's USDe in phase 1. This is held as Staked USDe (sUSDe) in our multi-sig backing address:
 
 > [0xA284e606624e60d5e218cC2061bd85eD3E4f073f](https://etherscan.io/address/0xA284e606624e60d5e218cC2061bd85eD3E4f073f#tokentxns)
 
@@ -14,7 +14,7 @@ The protocol in phase 1 is already generating revenue, approximately $600 per da
 
 Since the inception of Ordinals on Bitcoin the idea for a stablecoin has been regularly shared. Several teams have attempted to create one but the only functioning ones we have seen are built on BTC L2s.&#x20;
 
-Bamkfi wanted to get the Nakamoto Dollar circulating on L1 as soon as possible. So we decided to bootstrap in this way.
+Bamk.fi wanted to get the Nakamoto Dollar circulating on L1 as soon as possible. So we decided to bootstrap in this way.
 
 ## BRC20-5byte vs Runes
 
