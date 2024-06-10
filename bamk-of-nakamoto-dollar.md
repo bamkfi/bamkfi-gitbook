@@ -26,9 +26,15 @@ _\*Block 844,492 was when the first purchase of NUSD occurred_
 
 ## Example:
 
-At block 846,324, Alice buys 5,000 NUSD. At this block height, the current TVL is $704,900 NUSD. So her pro-rata share is 5,000/704,900 = 0.709%
+At block 846,492, Alice buys 5,000 NUSD. At this block height, the current TVL is $704,900 NUSD. So her pro-rata share is 5,000/704,900 = 0.709%
 
 This means for every block she holds her 5,000 NUSD, her address will accrue 0.709%\*31,250 = 221 BAMK tokens.
+
+Alice decides to hold NUSD until block 856,492 - a total of 10,000 blocks or 69 days. She then sells NUSD back to BTC.&#x20;
+
+Her BAMK tokens will start to vest at block 888,454, at the same rate she was allocated the BAMK. So at block 888,455 for example, she can claim 221 BAMK tokens. It will take a further 10,000 blocks until block height 898,454 before Alice receives her full BAMK rewards.
+
+So the earlier you own NUSD the earlier you will start to receive BAMK.
 
 The APY figure shown on [https://www.bamk.fi/](https://www.bamk.fi/) is calculated by using the current BAMK token price - the amount will fluctuate depending on current NUSD TVL and current BAMK price.
 
