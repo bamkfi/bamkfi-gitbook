@@ -2,7 +2,7 @@
 
 ### Who is the team behind Bamk.fi?
 
-932 degens and counting.
+1,177 degens and counting.
 
 The core team has mostly been doxxed if you have been active enough on X or Telegram
 
