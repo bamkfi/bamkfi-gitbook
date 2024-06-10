@@ -32,7 +32,7 @@ This means for every block she holds her 5,000 NUSD, her address will accrue 0.7
 
 Alice decides to hold NUSD until block 856,492 - a total of 10,000 blocks or 69 days. She then sells NUSD back to BTC.&#x20;
 
-Her BAMK tokens will start to vest at block 888,454, at the same rate she was allocated the BAMK. So at block 888,455 for example, she can claim 221 BAMK tokens. It will take a further 10,000 blocks until block height 898,454 before Alice receives her full BAMK rewards.
+Her BAMK tokens will start to vest at block 888,454 (block 846,492 + 41,962 = 888,454), at the same rate she was allocated the BAMK. So at block 888,455 for example, she will receive 221 BAMK tokens. It will take until block height 898,454 before Alice receives her full allocation of BAMK rewards.
 
 So the earlier you own NUSD the earlier you will start to receive BAMK.
 
