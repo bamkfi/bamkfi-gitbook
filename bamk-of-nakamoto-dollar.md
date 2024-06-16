@@ -1,11 +1,5 @@
 # BAMK•OF•NAKAMOTO•DOLLAR
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/full-size (10) (1).png" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
-
 The Runes ticker [BAMK•OF•NAKAMOTO•DOLLAR](https://magiceden.io/runes/BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR) was etched on April 21st 2024 with a max supply of 21,000,000,000 (21 billion)
 
 1,311,625,000 (6.25%) of the supply was offered as a public free mint to degens paying attention. It took \~6 days and around $150,000 in miner fees to mint out.&#x20;
@@ -40,7 +34,5 @@ The APY figure shown on [https://www.bamk.fi/](https://www.bamk.fi/) is calculat
 
 <figure><img src=".gitbook/assets/Screenshot 2024-06-03 at 10.54.45.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image.png" alt="NUSD TVL Growth"><figcaption><p>NUSD TVL growth</p></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>NUSD TVL Growth</p></figcaption></figure>
 
