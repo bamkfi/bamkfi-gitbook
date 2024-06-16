@@ -4,7 +4,7 @@ In order to bootstrap and accelerate our launch, Bamk.fi's NUSD is backed 1:1 by
 
 > [0xA284e606624e60d5e218cC2061bd85eD3E4f073f](https://etherscan.io/address/0xA284e606624e60d5e218cC2061bd85eD3E4f073f#tokentxns)
 
-Price of 1 sUSDe = $1.072
+Price of 1 sUSDe = $1.079
 
 Enabling this bootstrap allows us to immediately start growing TVL in an organic way. Phase 1 reliance on Ethena will be temporary as we further build out the infrastructure to execute our delta-neutral hedging program.
 
