@@ -8,7 +8,7 @@ Price of 1 sUSDe = $1.079
 
 Enabling this bootstrap allows us to immediately start growing TVL in an organic way. Phase 1 reliance on Ethena will be temporary as we further build out the infrastructure to execute our delta-neutral hedging program.
 
-The protocol in phase 1 is already generating revenue, approximately $600 per day, or $219,176 per year.
+The protocol in phase 1 is already generating revenue, approximately $600 per day, or $219,176 per year. \[Update 20/06/2024: Protocol is generating \~$2000 per day in revenue]
 
 ## First is First
 
