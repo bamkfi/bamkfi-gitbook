@@ -1,6 +1,6 @@
 # Mint NUSD
 
-Minting NUSD using [USDe](https://www.coingecko.com/en/coins/ethena-usde) is now available at [https://mint.bamk.fi/mint](https://mint.bamk.fi/mint)&#x20;
+Minting NUSD using [USDe](https://www.coingecko.com/en/coins/ethena-usde) is now available at [bamk.fi/mint](https://bamk.fi/mint)
 
 Minimum size is 10,000 NUSD and settlement can take up to 24 hours.&#x20;
 
