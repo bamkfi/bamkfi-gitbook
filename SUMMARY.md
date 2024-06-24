@@ -23,4 +23,5 @@
 
 * [Risks](resources/risks.md)
 * [FAQs](resources/faqs.md)
+* [Media Kit](resources/media-kit.md)
 * [Further Reading](resources/further-reading.md)
