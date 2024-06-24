@@ -6,15 +6,15 @@ The Runes ticker [BAMK•OF•NAKAMOTO•DOLLAR](https://magiceden.io/runes/BAMK
 
 ## BAMK Season 1 Incentives
 
-An additional 1,311,625,000 (6.25%) of the supply has been offered as incentives to all NUSD holders. **Simply buy NUSD and hold in your wallet to begin accruing BAMK tokens.** Every block between 844,492 and 886,454 - a total of 41,962 blocks will accrue 31,250 BAMK per block, distributed pro-rata to your NUSD holdings divided by the total NUSD TVL at that block height.
+An additional 1,311,625,000 (6.25%) of the supply has been offered as incentives to all NUSD holders. **Simply buy NUSD and hold in your wallet to begin accruing BAMK tokens.** Every block between 844,492 and 886,454 - a total of 41,972 blocks will accrue 31,250 BAMK per block, distributed pro-rata to your NUSD holdings divided by the total NUSD TVL at that block height.
 
 A dashboard to show BAMK accrued per address is in the works.
 
 > Allocation: 31,250 BAMK per block, pro-rata, user\_holdings/NUSD\_TVL \
-> Duration: 41,962 blocks (\~291 days) \
+> Duration: 41,972 blocks (\~291 days) \
 > Start block: 844,492\* \
 > End block: 886,454 \
-> Vesting: 31,250 BAMK per block after block 886,454, for the next 41,962 blocks
+> Vesting: 31,250 BAMK per block after block 886,454, for the next 41,972 blocks
 
 _\*Block 844,492 was when the first purchase of NUSD occurred_
 
@@ -26,7 +26,7 @@ This means for every block she holds her 5,000 NUSD, her address will accrue 0.7
 
 Alice decides to hold NUSD until block 856,492 - a total of 10,000 blocks or 69 days. She then sells NUSD back to BTC.&#x20;
 
-Her BAMK tokens will start to vest at block 888,454 (block 846,492 + 41,962 = 888,454), at the same rate she was allocated the BAMK. So at block 888,455 for example, she will receive 221 BAMK tokens. It will take until block height 898,454 before Alice receives her full allocation of BAMK rewards.
+Her BAMK tokens will start to vest at block 888,464 (block 846,492 + 41,972 = 888,464), at the same rate she was allocated the BAMK. So at block 888,465 for example, she will receive 221 BAMK tokens. It will take until block height 898,464 before Alice receives her full allocation of BAMK rewards.
 
 So the earlier you own NUSD the earlier you will start to receive BAMK.
 
