@@ -8,7 +8,7 @@
 .svg
 {% endfile %}
 
-<figure><img src="../.gitbook/assets/Bamkfi text-only.png" alt=""><figcaption><p>.png</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bamkfi text-only.png" alt=""><figcaption><p>Bamkfi text-only.png</p></figcaption></figure>
 
 {% file src="../.gitbook/assets/Bamkfi text-only.svg" %}
 .svg
@@ -28,3 +28,6 @@
 .svg
 {% endfile %}
 
+<figure><img src="../.gitbook/assets/NUSD no-background.png" alt=""><figcaption><p>NUSD no-background.png</p></figcaption></figure>
+
+{% file src="../.gitbook/assets/NUSD no-background.svg" %}
