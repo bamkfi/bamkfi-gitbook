@@ -22,6 +22,7 @@
 ## RESOURCES
 
 * [Risks](resources/risks.md)
+* [Reserves](resources/reserves.md)
 * [FAQs](resources/faqs.md)
 * [Media Kit](resources/media-kit.md)
 * [Further Reading](resources/further-reading.md)
