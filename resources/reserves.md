@@ -46,6 +46,6 @@ However Ethena has a 7-day cooldown period to unstake sUSDe. We therefore mainta
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-21 at 23.37.48 2.png" alt=""><figcaption><p>Unstaking sUSDe has a 7-day cooldown period</p></figcaption></figure>
 
-
+Due to Ethena's policy of restarting the cooldown if additional sUSDe is unstaked from the same address, we may in the future have multiple backing addresses to better provide liquidity for redemptions.
 
 \
