@@ -6,9 +6,9 @@ description: How USDe Reserves are Calculated
 
 ## Accounts
 
-| Account                                                             | Assets       | Chain |
-| ------------------------------------------------------------------- | ------------ | ----- |
-| <pre><code>0xA284e606624e60d5e218cC2061bd85eD3E4f073f
+| Account                                                                                                                                       | Assets       | Chain |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----- |
+| <pre data-full-width="true"><code><a data-footnote-ref href="#user-content-fn-1">0xA284e606624e60d5e218cC2061bd85eD3E4f073f</a>
 </code></pre> | USDe + sUSDe | ETH   |
 
 ## Calculation
@@ -49,3 +49,6 @@ However Ethena has a 7-day cooldown period to unstake sUSDe. We therefore mainta
 Due to Ethena's policy of restarting the cooldown if additional sUSDe is unstaked from the same address, we may in the future have multiple backing addresses to better provide liquidity for redemptions.
 
 \
+
+
+[^1]: 
