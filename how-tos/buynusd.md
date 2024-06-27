@@ -10,6 +10,7 @@ NUSD is available as a Runes ticker or as a BRC20-5byte ticker. You can buy NUSD
 
 NUSD•NUSD•NUSD•NUSD (Runes)
 
+* [Dotswap](https://www.dotswap.app/swap#R\_BTC\_NUSD%E2%80%A2NUSD%E2%80%A2NUSD%E2%80%A2NUSD) (AMM)
 * [OKX](https://www.okx.com/web3/marketplace/runes/token/NUSD%E2%80%A2NUSD%E2%80%A2NUSD%E2%80%A2NUSD/845005:178)
 * [MagicEden](https://magiceden.io/runes/NUSD%E2%80%A2NUSD%E2%80%A2NUSD%E2%80%A2NUSD)
 * [Unisat](https://unisat.io/runes/market?tick=NUSD%E2%80%A2NUSD%E2%80%A2NUSD%E2%80%A2NUSD\&tab=1)
