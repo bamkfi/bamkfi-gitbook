@@ -36,3 +36,16 @@ The APY figure shown on [https://www.bamk.fi/](https://www.bamk.fi/) is calculat
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>NUSD TVL Growth</p></figcaption></figure>
 
+## Dotswap Liquidity Pool BAMK Incentives
+
+Since block 849,215, an additional 25million BAMK has been allocated to the [NUSD/BTC](https://www.dotswap.app/swap#R\_BTC\_NUSD%E2%80%A2NUSD%E2%80%A2NUSD%E2%80%A2NUSD) liquidity pool on Dotswap as rewards.
+
+> Allocation: 5,000 BAMK per block \
+> Duration: 5,000 blocks (\~34 days) \
+> Start block: 849,215 \
+> End block: 854,215 \
+> Vesting: Same as BAMK Season 1 Incentives
+
+Liquidity providers will still qualify for the existing Season 1 rewards for simply holding NUSD. The leaderboard will be updated to reflect this soon.
+
+Note: in order to add liquidity to Dotswap's AMM pool you need equal amounts of NUSD and BTC.&#x20;
