@@ -17,6 +17,7 @@
 * [Buy NUSD](how-tos/buynusd.md)
 * [Mint NUSD](how-tos/mintnusd.md)
 * [Redeem NUSD](how-tos/redeemnusd.md)
+* [NUSD-BRC20 <--> NUSD-Runes](how-tos/nusd-brc20-less-than-greater-than-nusd-runes.md)
 * [Stake NUSD](how-tos/stake-nusd.md)
 
 ## RESOURCES
