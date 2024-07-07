@@ -49,3 +49,7 @@ Since block 849,215, an additional 25million BAMK has been allocated to the [NUS
 Liquidity providers will still qualify for the existing Season 1 rewards for simply holding NUSD. The leaderboard will be updated to reflect this soon.
 
 Note: in order to add liquidity to Dotswap's AMM pool you need equal amounts of NUSD and BTC.&#x20;
+
+## Further Resources
+
+There is a [community-run yield tracker](https://nusd-data.vercel.app/) which gives a more real-time view of the yield amount and blocks remaining.
