@@ -6,14 +6,16 @@ description: How USDe Reserves are Calculated
 
 ## Accounts
 
-| Account                                                                                                                                       | Assets       | Chain |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----- |
-| <pre data-full-width="true"><code><a data-footnote-ref href="#user-content-fn-1">0xA284e606624e60d5e218cC2061bd85eD3E4f073f</a>
-</code></pre> | USDe + sUSDe | ETH   |
+| Account                                                                                                     | Assets       | Chain |
+| ----------------------------------------------------------------------------------------------------------- | ------------ | ----- |
+| <pre data-full-width="true"><code><strong>0xA284e606624e60d5e218cC2061bd85eD3E4f073f
+</strong></code></pre> | USDe + sUSDe | ETH   |
+| <pre><code><strong>0xC9d4E02e2017bBDEe2bF50971CADBfC82fc33bbE
+</strong></code></pre>                        | USDe + USDT  | ETH   |
 
 ## Calculation
 
-[Bamk.fi](https://bamk.fi)  updates the market value of the reserves every 10 minutes.&#x20;
+[Bamk.fi](https://bamk.fi) updates the market value of the reserves every 10 minutes.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-25 at 13.09.09.png" alt=""><figcaption></figcaption></figure>
 
@@ -22,6 +24,7 @@ The reserves are denominated in US dollar equivalent and is made up of:
 > \+ USDe balance\
 > \+ sUSDe balance\
 > \+ sUSDe unstaking (cooldown) balance\
+> \+ USDT balance\
 > \= Total Backing
 
 The code for how we calculate this figure on the website can be found [here](https://github.com/bamkfi/bamkfi-frontend/blob/main/src/app/page.tsx#L60-L184).
@@ -49,6 +52,3 @@ However Ethena has a 7-day cooldown period to unstake sUSDe. We therefore mainta
 Due to Ethena's policy of restarting the cooldown if additional sUSDe is unstaked from the same address, we may in the future have multiple backing addresses to better provide liquidity for redemptions.
 
 \
-
-
-[^1]: 
