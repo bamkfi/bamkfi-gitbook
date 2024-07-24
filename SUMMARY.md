@@ -22,6 +22,7 @@
 
 ## RESOURCES
 
+* [NUSD Issuance Primer](resources/nusd-issuance-primer.md)
 * [Risks](resources/risks.md)
 * [Reserves](resources/reserves.md)
 * [FAQs](resources/faqs.md)
