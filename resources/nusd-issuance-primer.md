@@ -47,16 +47,18 @@ The [Bamk.fi](http://bamk.fi) Pre-mine address controls the ability for newly is
 
 Secondly, maintaining an inventory of Authorised NUSD allows us to scale operations and meet customer demand in a timely fashion. The authorisation process ensures that NUSD won’t need to be issued every time a new customer request is made. Instead, a balance of Authorised NUSD is kept ready to be issued when needed without having to touch the private keys for the Pre-mine NUSD. The balance of Authorised NUSD is determined by conversations Bamk.fi has had with clients and represents the anticipated demand for NUSD.
 
-Authorised NUSD are not counted in the market cap of NUSD. Authorised NUSD are not yet issued and not in circulation, so they are therefore not backed by the equivalent USDe or delta-neutral position. All authorised NUSD are held in [Bamk.fi](http://bamk.fi)’s treasury at the addresses stated above and do not qualify for BAMK•OF•NAKAMOTO•DOLLAR rewards.
+Authorised NUSD are not yet issued and not in circulation, so they are therefore not backed by the equivalent USDe or delta-neutral position and not counted in the market cap of NUSD.
+
+All authorised NUSD are held in [Bamk.fi](http://bamk.fi)’s treasury at the address(es) stated above and will not qualify for BAMK•OF•NAKAMOTO•DOLLAR rewards.
 
 ### Issued
 
-Issued NUSD tokens are in circulation and fully backed by sUSDe, USDe or USDT\*. Reserves breakdown can be seen [here](https://docs.bamk.fi/bamkfi/resources/reserves).
+Issued NUSD tokens are in circulation and fully backed by sUSDe, USDe or USDT. A breakdown of the reserves can be seen [here](https://docs.bamk.fi/bamkfi/resources/reserves).
 
 In order to provide liquidity for BTC/NUSD swaps, Issued NUSD may be temporarily backed by BTC for 10 to 90 minutes while the protocol converts BTC to USDe/T.&#x20;
 
 ### Redeemed
 
-Redeemed NUSD tokens are sent back to the Pre-mine address at bc1pfuluvkjcgzjdzjy42k3djkaw8a96dune2arcedhcml2h5sea6fdse9dajg. Clients who redeem NUSD will receive 1:1 amounts in either USDe or USDT, less any network fees.&#x20;
+Redeemed NUSD tokens are sent back to the Pre-mine address at `bc1pfuluvkjcgzjdzjy42k3djkaw8a96dune2arcedhcml2h5sea6fdse9dajg`. Clients who redeem NUSD will receive 1:1 amounts in either USDe or USDT, less any network fees.&#x20;
 
 Once NUSD is sent back to the Pre-mined address they are no longer counted in the NUSD market cap.
