@@ -1,5 +1,5 @@
 ---
-description: The four distinct stages of NUSD
+description: Four distinct stages of the Nakamoto Dollar
 ---
 
 # NUSD Issuance Primer
