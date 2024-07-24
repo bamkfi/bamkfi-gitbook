@@ -13,7 +13,7 @@ NUSD cycles through four distinct stages:
 3. Issued
 4. Redeemed&#x20;
 
-This article explains each of these stages and the associated onchain addresses users can use to publicly verify against.&#x20;
+This article explains each of these stages and the associated onchain addresses users can publicly verify against.&#x20;
 
 ### Pre-mined
 
