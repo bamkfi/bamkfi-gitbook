@@ -14,15 +14,17 @@
 
 ## HOW TO'S
 
-* [Buy NUSD](how-tos/buynusd.md)
 * [Mint NUSD](how-tos/mintnusd.md)
+* [Buy NUSD](how-tos/buynusd.md)
 * [Redeem NUSD](how-tos/redeemnusd.md)
-* [NUSD-BRC20 <--> NUSD-Runes](how-tos/nusd-brc20-less-than-greater-than-nusd-runes.md)
+* [Bridge NUSD](how-tos/bridge-nusd.md)
 * [Stake NUSD](how-tos/stake-nusd.md)
+* [Buy BAMK](how-tos/buynusd-1.md)
+* [Stake BAMK](how-tos/stake-bamk.md)
 
 ## RESOURCES
 
-* [NUSD Issuance Primer](resources/nusd-issuance-primer.md)
+* [Issuance](resources/issuance.md)
 * [Risks](resources/risks.md)
 * [Reserves](resources/reserves.md)
 * [FAQs](resources/faqs.md)

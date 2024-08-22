@@ -1,14 +1,8 @@
 # Phase 1 - USDe Backing
 
-In order to bootstrap and accelerate our launch, Bamk.fi's NUSD is backed 1:1 by Ethena's USDe in phase 1. This is held as Staked USDe (sUSDe) in our multi-sig backing address:
-
-> [0xA284e606624e60d5e218cC2061bd85eD3E4f073f](https://etherscan.io/address/0xA284e606624e60d5e218cC2061bd85eD3E4f073f#tokentxns)
-
-Price of 1 sUSDe = $1.079
+In order to bootstrap and accelerate our launch, Bamk.fi's NUSD is backed 1:1 by Ethena's USDe in phase 1.
 
 Enabling this bootstrap allows us to immediately start growing TVL in an organic way. Phase 1 reliance on Ethena will be temporary as we further build out the infrastructure to execute our delta-neutral hedging program.
-
-The protocol in phase 1 is already generating revenue, approximately $600 per day, or $219,176 per year. \[Update 20/06/2024: Protocol is generating \~$2000 per day in revenue]
 
 ## First is First
 

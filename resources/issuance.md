@@ -1,10 +1,4 @@
----
-description: Four distinct stages of the Nakamoto Dollar
----
-
-# NUSD Issuance Primer
-
-[Bamk.fi](http://bamk.fi) is the oldest and largest synthetic dollar protocol on Bitcoin, issuing the Nakamoto Dollar, _NUSD_.&#x20;
+# Issuance
 
 NUSD cycles through four distinct stages:
 
@@ -19,7 +13,7 @@ This article explains each of these stages and the associated onchain addresses 
 
 The majority of NUSD in circulation today is issued as [NUSD•NUSD•NUSD•NUSD](https://unisat.io/runes/detail/NUSD%E2%80%A2NUSD%E2%80%A2NUSD%E2%80%A2NUSD) on the Runes protocol. Due to limitations with the Runes protocol, the deployer of a Runes token is not able to have sole power to mint or burn supply like on Ethereum with smart contracts.&#x20;
 
-[Bamk.fi](http://bamk.fi) therefore chose a max supply of 2.1 quadrillion NUSD (2,100,000,000,000,000) that was 100% pre-mined and sent to Asigna multisig address:
+[Bamk.fi](http://bamk.fi) therefore chose a max supply of 2.1 quadrillion NUSD (2,100,000,000,000,000) that was 100% pre-mined and sent to [Asigna](https://asigna.io/) multisig address:
 
 {% hint style="info" %}
 bc1pfuluvkjcgzjdzjy42k3djkaw8a96dune2arcedhcml2h5sea6fdse9dajg

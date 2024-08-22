@@ -1,6 +1,6 @@
 # Buy NUSD
 
-NUSD is available as a Runes ticker or as a BRC20-5byte ticker. You can buy NUSD using BTC at these links:
+NUSD is available as a Runes ticker or as a BRC20-5byte ticker. You can buy NUSD on secondary marketplaces using BTC at the following links:
 
 <div align="left">
 

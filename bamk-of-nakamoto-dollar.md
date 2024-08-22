@@ -34,7 +34,7 @@ The APY figure shown on [https://www.bamk.fi/](https://www.bamk.fi/) is calculat
 
 <figure><img src=".gitbook/assets/Screenshot 2024-06-03 at 10.54.45.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>NUSD TVL Growth</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>NUSD TVL Growth</p></figcaption></figure>
 
 ## Dotswap Liquidity Pool BAMK Incentives
 
