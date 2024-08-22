@@ -6,12 +6,12 @@ description: How USDe Reserves are Calculated
 
 ## Accounts
 
-| Account                                                                                                     | Assets       | Chain |
-| ----------------------------------------------------------------------------------------------------------- | ------------ | ----- |
+| Account                                                                                                     | Assets            | Chain |
+| ----------------------------------------------------------------------------------------------------------- | ----------------- | ----- |
 | <pre data-full-width="true"><code><strong>0xA284e606624e60d5e218cC2061bd85eD3E4f073f
-</strong></code></pre> | USDe + sUSDe | ETH   |
-| <pre><code><strong>0xC9d4E02e2017bBDEe2bF50971CADBfC82fc33bbE
-</strong></code></pre>                        | USDe + USDT  | ETH   |
+</strong></code></pre> | sUSDe, USDe, USDT | ETH   |
+| <pre><code>0x6656F9769ccD9cC88E3088e47E8a4f3215798af2
+</code></pre>                                         | USDe, USDT        | ETH   |
 
 ## Calculation
 
@@ -21,13 +21,13 @@ description: How USDe Reserves are Calculated
 
 The reserves are denominated in US dollar equivalent and is made up of:
 
-> \+ USDe balance\
 > \+ sUSDe balance\
 > \+ sUSDe unstaking (cooldown) balance\
+> \+ USDe balance\
 > \+ USDT balance\
 > \= Total Backing
 
-The code for how we calculate this figure on the website can be found [here](https://github.com/bamkfi/bamkfi-frontend/blob/main/src/app/page.tsx#L60-L184).
+The code for how we calculate this figure on the website can be found [here](https://github.com/bamkfi/bamkfi-landing/blob/a8321bbbea58a17738dd9e2b60fc206ce138749b/src/app/page.tsx#L250).
 
 ## sUSDe Details
 
