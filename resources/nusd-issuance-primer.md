@@ -55,7 +55,7 @@ All authorised NUSD are held in [Bamk.fi](http://bamk.fi)’s treasury at the ad
 
 Issued NUSD tokens are in circulation and fully backed by sUSDe, USDe or USDT. A breakdown of the reserves can be seen [here](https://docs.bamk.fi/bamkfi/resources/reserves).
 
-In order to provide liquidity for BTC/NUSD swaps, Issued NUSD may be temporarily backed by BTC for 10 to 90 minutes while the protocol converts BTC to USDe/T.&#x20;
+In order to provide liquidity for BTC/NUSD swaps, Issued NUSD may be temporarily backed by BTC while the protocol converts BTC to USDe/T.&#x20;
 
 ### Redeemed
 
