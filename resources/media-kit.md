@@ -14,9 +14,9 @@
 .svg
 {% endfile %}
 
+<figure><img src="../.gitbook/assets/bamk.png" alt=""><figcaption><p>BAMK icon with background.png</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/Bamkfi no-text.png" alt=""><figcaption><p>Bamkfi no-text.png</p></figcaption></figure>
-
-
 
 {% file src="../.gitbook/assets/Bamkfi no-text.svg" %}
 .svg
