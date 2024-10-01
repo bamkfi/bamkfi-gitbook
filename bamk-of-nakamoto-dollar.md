@@ -50,6 +50,8 @@ Liquidity providers will still qualify for the existing Season 1 rewards for sim
 
 Note: in order to add liquidity to Dotswap's AMM pool you need equal amounts of NUSD and BTC.&#x20;
 
+Update 9/28/24: Since block 863232, Dotswap LP providers in the BTC/NUSD V3 Pool will be allocated 5,000 BAMK per block pro-rata based on number of LP shares. LPs still qualify for existing NUSD holder rewards. Rewards will become available after same vesting period as previous program (41,972 blocks). Provide liquidity [here](https://www.dotswap.app/pools#R\_%E2%80%A2NUSD%E2%80%A2NUSD%E2%80%A2NUSD%E2%80%A2NUSD\_%E2%80%A2BTC). Unlike previous Dotswap program, there is no scheduled end date to this program. We will announce on all socials and update these docs when the program is over.
+
 ## Further Resources
 
 There is a [community-run yield tracker](https://nusd-data.vercel.app/) which gives a more real-time view of the yield amount and blocks remaining.
