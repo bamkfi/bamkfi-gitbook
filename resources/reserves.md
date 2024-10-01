@@ -12,8 +12,10 @@ description: How USDe Reserves are Calculated
 </strong></code></pre> | sUSDe, USDe, USDT | ETH   |
 | <pre><code>0x6656F9769ccD9cC88E3088e47E8a4f3215798af2
 </code></pre>                                         | USDe, USDT        | ETH   |
-| <pre><code>0x77b3898979f3947D8BFc931E6b6389a99d6727a9
-</code></pre>                                         | sUSDe, USDe       | ETH   |
+| <pre><code><strong>0x77b3898979f3947D8BFc931E6b6389a99d6727a9
+</strong></code></pre>                        | sUSDe, USDe       | ETH   |
+| <pre><code>eth:0xA1203607eCa4d5fe43aDb362D3b5E201183A5948
+</code></pre>                                     | sUSDe, USDe       | ETH   |
 
 ## Calculation
 
