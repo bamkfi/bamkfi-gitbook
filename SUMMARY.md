@@ -14,13 +14,10 @@
 
 ## HOW TO'S
 
-* [Mint NUSD](how-tos/mintnusd.md)
-* [Buy NUSD](how-tos/buynusd.md)
+* [Buy BAMK](how-tos/buynusd.md)
+* [Buy NUSD](how-tos/mintnusd.md)
 * [Redeem NUSD](how-tos/redeemnusd.md)
 * [Bridge NUSD](how-tos/bridge-nusd.md)
-* [Stake NUSD](how-tos/stake-nusd.md)
-* [Buy BAMK](how-tos/buynusd-1.md)
-* [Stake BAMK](how-tos/stake-bamk.md)
 
 ## RESOURCES
 

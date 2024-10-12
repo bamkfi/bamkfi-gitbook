@@ -1,24 +1,19 @@
-# Buy NUSD
+# Buy BAMK
 
-NUSD is available as a Runes ticker or as a BRC20-5byte ticker. You can buy NUSD on secondary marketplaces using BTC at the following links:
+[BAMK•OF•NAKAMOTO•DOLLAR](https://unisat.io/runes/detail/BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR) (BAMK) only exists on Runes protocol. You can buy BAMK on the following marketplaces:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/full-size (9).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bamk.png" alt="" width="188"><figcaption><p>BAMK</p></figcaption></figure>
 
 </div>
 
-NUSD•NUSD•NUSD•NUSD (Runes)
+* Dotswap
+  * [BTC/BAMK](https://www.dotswap.app/swap#R\_BTC\_BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR)
+  * [NUSD/BAMK](https://www.dotswap.app/swap#R\_NUSD%E2%80%A2NUSD%E2%80%A2NUSD%E2%80%A2NUSD\_BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR)
+* [OKX](https://www.okx.com/web3/marketplace/runes/token/BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR/840256:35)
+* [MagicEden](https://magiceden.io/runes/BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR)
+* [UniSat](https://unisat.io/runes/market?tick=BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR)
 
-* [Dotswap](https://www.dotswap.app/swap#R\_BTC\_NUSD%E2%80%A2NUSD%E2%80%A2NUSD%E2%80%A2NUSD) (AMM)
-* [OKX](https://www.okx.com/web3/marketplace/runes/token/NUSD%E2%80%A2NUSD%E2%80%A2NUSD%E2%80%A2NUSD/845005:178)
-* [MagicEden](https://magiceden.io/runes/NUSD%E2%80%A2NUSD%E2%80%A2NUSD%E2%80%A2NUSD)
-* [Unisat](https://unisat.io/runes/market?tick=NUSD%E2%80%A2NUSD%E2%80%A2NUSD%E2%80%A2NUSD\&tab=1)
 
-$NUSD (BRC20-5byte)
-
-* [OKX](https://www.okx.com/web3/marketplace/inscription/ordinals/token/%24NUSD)
-* [Unisat](https://unisat.io/market/brc20?tick=%24NUSD)
-
-There is no difference whether you hold NUSD on BRC20-5byte or on Runes in terms of BAMK Season 1 Incentives
 
