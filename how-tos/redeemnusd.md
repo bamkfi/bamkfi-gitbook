@@ -4,6 +4,10 @@ Redeeming NUSD for USDe is available at [bamk.fi/swap/redeem](https://www.bamk.f
 
 Minimum size is 10,000 NUSD and settlement can normally take up to 24 hours.
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 A native NUSD to BTC swap is coming soon.
