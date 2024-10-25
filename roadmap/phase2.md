@@ -1,10 +1,26 @@
----
-description: Via Onchain Perpetual Swaps
----
+# Delta Neutral Hedging
 
-# Phase 2 - Delta Neutral Hedging
+## Phase 1: USDe Backing
 
-In phase 2, we will start our hedging program. We have a trading firm we have worked with before who will help execute and manage the delta-neutral hedging program.
+In order to bootstrap and accelerate our launch, Bamk.fi's NUSD is backed 1:1 by Ethena's USDe in phase 1 which uses a similar delta-neutral position as the Nakamoto Dollar will use in Phase 2.
+
+Enabling this bootstrap allows us to immediately start growing TVL in an organic way. Phase 1 reliance on Ethena will be temporary as we further build out the infrastructure to execute our delta-neutral hedging program.
+
+### First is First
+
+Since the inception of Ordinals on Bitcoin the idea for a stablecoin has been regularly shared. Several teams have attempted to create one but the only functioning ones we have seen are built on BTC L2s.&#x20;
+
+Bamk.fi wanted to get the Nakamoto Dollar circulating on L1 as soon as possible. So we decided to bootstrap in this way.
+
+### BRC20-5byte vs Runes
+
+The initial choice to start $NUSD on BRC20-5byte was because the upgrade was specifically intended for stablecoin projects. Tickers could be deployed without a max supply and issuance was only possible from the holder of the deployer inscription.&#x20;
+
+On Runes there is no option for an infinite supply ticker where the deployer can control the issuance. So it was decided to etch the NUSD•NUSD•NUSD•NUSD Rune with a supply of 2.1 quadrillion, matching the number of satoshis of Bitcoin.&#x20;
+
+We are keeping updated on other Bitcoin L1 protocols and will assess whether to deploy NUSD on other protocols.
+
+## Phase 2: Delta Neutral Hedging
 
 Bamk.fi plans to execute the delta-neutral hedging program only through onchain perpetual swaps. We are carefully monitoring trading volumes and Open Interest of various perpetual DEXes on several blockchains.
 
@@ -16,29 +32,29 @@ Enabling hedging directly onchain means we mitigate the largest risk factor in t
 
 This further enables all positions to be transparent to the world at all times. Users can see actual positions being opened or closed by the Bamk.fi protocol.
 
-## Delta-Neutral Position
+### Delta-Neutral Position
 
 In finance, a delta-neutral portfolio means despite the assets you hold going up and down in price, your portfolio value remains the same.&#x20;
 
 Easiest explained with an example:
 
-> <mark style="background-color:orange;">BTC/USD is trading at $69,000</mark>&#x20;
+> BTC/USD is trading at $69,000&#x20;
 >
-> <mark style="background-color:orange;">Your portfolio holds $10,000 worth of BTC (\~0.14492 BTC).</mark>
+> Your portfolio holds $10,000 worth of BTC (\~0.14492 BTC).
 >
-> <mark style="background-color:orange;">You want to keep your portfolio delta-neutral so you open a BTC short position worth $10,000 on the perpetuals pair.</mark>
+> You want to keep your portfolio delta-neutral so you open a BTC short position worth $10,000 on the perpetuals pair.
 >
-> <mark style="background-color:orange;">Now whether BTC goes to $150,000 or $20,000, your portfolio will still remain valued at $10,000</mark>&#x20;
+> Now whether BTC goes to $150,000 or $20,000, your portfolio will still remain valued at $10,000&#x20;
 
 You are going both long and short in equal amounts, simultaneously. This in effect cancels both positions out so you remain neutral.
 
-## Synthetic Dollar
+### Synthetic Dollar
 
 The ability to keep your $10,000 BTC portfolio delta-neutral means you can take your same portfolio and use it as backing for $10,000 worth of synthetic dollars. This is what the Nakamoto Dollar (NUSD) is.
 
 Bamk.fi receives BTC from people who want to mint NUSD. Bamk.fi then opens an equally sized position going short BTC on the perpetuals pair. This creates the delta-neutral position. Bamk.fi can then issue fresh NUSD and have it be backed by the delta-neutral portfolio.
 
-## Bitcoin Bond and the Funding Rate&#x20;
+### Bitcoin Bond and the Funding Rate&#x20;
 
 When a perpetuals position is opened, something called the funding rate dictates whether long positions are paying shorts, or whether short positions are paying longs.&#x20;
 

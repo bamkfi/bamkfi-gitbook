@@ -11,5 +11,6 @@ We also recommend reading the Ethena docs to get a deeper understanding of the l
 ## Other BAMK Community Links
 
 * [BAMKCurve](https://bamkchart.web.app/) - APY Calculator
+* [NUSD Data](https://nusd-data.com/)
 * [Nakamoto Dollar Bamk Paper](https://medium.com/coinmonks/nakamoto-dollar-bamk-paper-0b6554651dbd) - community written whitepaper&#x20;
 * [BAMK: Pioneering the Nakamoto Dollar on Bitcoin ](https://hackernoon.com/bamk-pioneering-the-nakamoto-dollar-on-bitcoin)- Hackernoon article&#x20;

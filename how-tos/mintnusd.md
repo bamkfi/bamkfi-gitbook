@@ -1,14 +1,6 @@
 # Buy NUSD
 
-NUSD is available on Runes protocol (preferred) and BRC20 protocol (limited support).
-
-<div align="left">
-
-<figure><img src="../.gitbook/assets/NUSD Logo.png" alt="" width="188"><figcaption><p>NUSD</p></figcaption></figure>
-
-</div>
-
-[Bamk.fi/swap](https://app.bamk.fi/swap/buy) offers BTC -> NUSD (Runes) swap with no slippage:
+[Bamk.fi/swap](https://app.bamk.fi/swap/buy) offers BTC -> NUSD Runes swap with no slippage:
 
 <div align="left">
 
@@ -28,7 +20,7 @@ NUSD is available on Runes protocol (preferred) and BRC20 protocol (limited supp
 
 </div>
 
-A [preauthorized](../resources/issuance.md) amount of NUSD is available through this service at any given time. For orders larger than the swap's current inventory, please [contact us](https://t.me/bamkfi) directly.
+A [preauthorized](../resources/issuance.md) amount of NUSD is available through this service at any given time. For orders larger than the swap's current inventory, [contact us](https://t.me/bamkfi) directly.
 
 ## Secondary Marketplaces
 

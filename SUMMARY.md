@@ -2,22 +2,25 @@
 
 * [Bamk.fi Overview](README.md)
 * [BAMK•OF•NAKAMOTO•DOLLAR](bamk-of-nakamoto-dollar.md)
-
-## ROADMAP
-
-* [Phase 1 - USDe Backing](roadmap/phase1.md)
-* [Phase 2 - Delta Neutral Hedging](roadmap/phase2.md)
-* [Minting & Redeeming](roadmap/minting-and-redeeming.md)
-* [Negative Funding Rate Mitigation](roadmap/negative-funding-rate-mitigation.md)
-* [Nakamoto Index](roadmap/nakamoto-index.md)
-* [Bitcoin Perpetual Swaps](roadmap/bitcoin-perpetual-swaps.md)
+* [NUSD•NUSD•NUSD•NUSD](nusd-nusd-nusd-nusd.md)
 
 ## HOW TO'S
 
-* [Buy BAMK](how-tos/buynusd.md)
 * [Buy NUSD](how-tos/mintnusd.md)
 * [Redeem NUSD](how-tos/redeemnusd.md)
 * [Bridge NUSD](how-tos/bridge-nusd.md)
+
+## Rewards
+
+* [Rewards For NUSD Holders](rewards/rewards-for-nusd-holders.md)
+* [Rewards For NUSD LP Providers](rewards/rewards-for-nusd-lp-providers.md)
+
+## ROADMAP
+
+* [Delta Neutral Hedging](roadmap/phase2.md)
+* [Negative Funding Rate Mitigation](roadmap/negative-funding-rate-mitigation.md)
+* [Nakamoto Index](roadmap/nakamoto-index.md)
+* [Bitcoin Perpetual Swaps](roadmap/bitcoin-perpetual-swaps.md)
 
 ## RESOURCES
 
