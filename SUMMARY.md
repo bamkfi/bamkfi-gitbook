@@ -8,7 +8,6 @@
 
 * [Buy NUSD](how-tos/mintnusd.md)
 * [Redeem NUSD](how-tos/redeemnusd.md)
-* [Bridge NUSD](how-tos/bridge-nusd.md)
 
 ## Rewards
 
