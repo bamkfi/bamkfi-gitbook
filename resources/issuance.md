@@ -55,6 +55,6 @@ In order to provide liquidity for BTC/NUSD swaps, Issued NUSD may be temporarily
 
 Redeemed NUSD Runes are sent back to the pre-mine address at `bc1pfuluvkjcgzjdzjy42k3djkaw8a96dune2arcedhcml2h5sea6fdse9dajg` as part of the [NUSD->USDE redeem](https://bamk.fi/swap/redeem).
 
-Redeemed [NUSD BRC20->Runes](broken-reference) are sent to a temporary deposit address then burned.
+Redeemed NUSD BRC20 are sent to a temporary deposit address then burned.
 
 This ensures they are no longer counted in the NUSD market cap.
