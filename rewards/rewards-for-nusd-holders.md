@@ -1,6 +1,6 @@
 # Rewards For NUSD Holders
 
-_<mark style="color:green;">**NUSD Holder Season 1 rewards program is active since block 844,492**</mark><mark style="color:green;">** **</mark><mark style="color:green;">**until block 886,454.**</mark>_
+_<mark style="color:green;">**NUSD Holder Season 1 rewards program is active since block 844,492 until block 886,454.**</mark>_
 
 ## Season 1 NUSD Holder Rewards&#x20;
 
@@ -15,6 +15,8 @@ A dashboard to show BAMK accrued per address is in the works.
 > Vesting: 31,250 BAMK per block after block 886,454, for the next 41,972 blocks
 
 _\*Block 844,492 was when the first purchase of NUSD occurred_
+
+Starting block 868383, vesting period is reduced from 41,972 blocks to 0 blocks i.e. rewards will be eligible for immediate redemption upon release of tooling.
 
 ### Example:
 
