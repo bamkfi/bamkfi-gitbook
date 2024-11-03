@@ -9,8 +9,3 @@ Holders of NUSD during Season 1 earn [BAMK rewards](https://app.gitbook.com/o/lf
 <figure><img src=".gitbook/assets/NUSD Logo.png" alt="" width="188"><figcaption><p>NUSD</p></figcaption></figure>
 
 </div>
-
-## How to buy NUSD?
-
-Click [here](how-tos/mintnusd.md).
-
