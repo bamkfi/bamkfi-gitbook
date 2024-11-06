@@ -18,6 +18,10 @@ description: How USDe Reserves are Calculated
 </code></pre>                                         | sUSDe, USDe       | ETH   |
 | <pre><code>0xD00a4c08349d5a82df98C606262AfC4ae2d8075D
 </code></pre>                                         | sUSDe, USDe       | ETH   |
+| <pre><code>bc1prnqh4uznxaklvxga6spr2fyjrpcxwnryzlhdpghzq9zqgz59z54qmentw6
+</code></pre>                     | BTC               | BTC   |
+| <pre><code>bc1pktqfd9xuh33xd9pj3l3y5hgp0k4lvxtuzgyym2panr9utkmuneyqepj0t8
+</code></pre>                     | BTC               | BTC   |
 
 ## Calculation
 
