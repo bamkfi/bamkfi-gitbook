@@ -1,16 +1,22 @@
-# Redeem NUSD
+# Sell NUSD
 
-NUSD -> USDe is available at [bamk.fi/swap/redeem](https://www.bamk.fi/swap/redeem).
+NUSD Runes -> BTC native swap is available at [bamk.fi/swap/sell](https://bamk.fi/swap/sell).
 
-Minimum size is 10,000 NUSD and settlement can normally take up to 24 hours.
+It offers zero slippage based on the current exchange rate for the max available.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-A native NUSD Runes to BTC swap is coming soon.
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Users only needs to sign their Runes UTXOs as miner fee and service fee are deducted from the received BTC amount.
 
 ### BRC-20 Bridge
 

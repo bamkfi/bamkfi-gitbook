@@ -7,7 +7,7 @@
 ## HOW TO'S
 
 * [Buy NUSD](how-tos/mintnusd.md)
-* [Redeem NUSD](how-tos/redeemnusd.md)
+* [Sell NUSD](how-tos/redeemnusd.md)
 
 ## Rewards
 
