@@ -1,6 +1,6 @@
 # Rewards For NUSD LP Providers
 
-_<mark style="color:green;">**Dotswap LP rewards program is active since block 863,232.**</mark>_
+_<mark style="color:red;">**Dotswap LP rewards program is inactive since block 869,420**</mark>_
 
 Starting at block 849,215, an additional 25million BAMK was allocated to the [NUSD/BTC](https://www.dotswap.app/swap#R\_BTC\_NUSD%E2%80%A2NUSD%E2%80%A2NUSD%E2%80%A2NUSD) liquidity pool on [Dotswap](https://www.dotswap.app/swap#R\_BTC\_NUSD%E2%80%A2NUSD%E2%80%A2NUSD%E2%80%A2NUSD) as rewards.
 
@@ -18,5 +18,5 @@ Starting again at block 863,232 with same requirements as above, providers in th
 
 > Allocation: 5,000 BAMK per block \
 > Start block: 863,232\
-> End block: TBD\
+> End block: 869,420\
 > Vesting: 41,972 blocks
