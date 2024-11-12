@@ -31,3 +31,7 @@
 <figure><img src="../.gitbook/assets/NUSD no-background.png" alt=""><figcaption><p>NUSD no-background.png</p></figcaption></figure>
 
 {% file src="../.gitbook/assets/NUSD no-background.svg" %}
+
+<figure><img src="../.gitbook/assets/NUSD-bold.png" alt=""><figcaption><p>NUSD-bold-alternate</p></figcaption></figure>
+
+{% file src="../.gitbook/assets/NUSD-bold.svg" %}
