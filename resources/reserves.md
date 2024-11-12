@@ -1,27 +1,25 @@
 ---
-description: How USDe Reserves are Calculated
+description: The protocol holds assets in the following addresses.
 ---
 
 # Reserves
 
 ## Accounts
 
-| Account                                                                                                     | Assets            | Chain |
-| ----------------------------------------------------------------------------------------------------------- | ----------------- | ----- |
+| Account                                                                                                     | Assets                                     | Chain |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ----- |
 | <pre data-full-width="true"><code><strong>0xA284e606624e60d5e218cC2061bd85eD3E4f073f
-</strong></code></pre> | sUSDe, USDe, USDT | ETH   |
+</strong></code></pre> | sUSDe, USDe, USDT                          | ETH   |
 | <pre><code>0x6656F9769ccD9cC88E3088e47E8a4f3215798af2
-</code></pre>                                         | USDe, USDT        | ETH   |
+</code></pre>                                         | USDe, USDT                                 | ETH   |
 | <pre><code><strong>0x77b3898979f3947D8BFc931E6b6389a99d6727a9
-</strong></code></pre>                        | sUSDe, USDe       | ETH   |
+</strong></code></pre>                        | sUSDe, USDe                                | ETH   |
 | <pre><code>0xA1203607eCa4d5fe43aDb362D3b5E201183A5948
-</code></pre>                                         | sUSDe, USDe       | ETH   |
+</code></pre>                                         | sUSDe, USDe                                | ETH   |
 | <pre><code>0xD00a4c08349d5a82df98C606262AfC4ae2d8075D
-</code></pre>                                         | sUSDe, USDe       | ETH   |
+</code></pre>                                         | sUSDe, USDe                                | ETH   |
 | <pre><code>bc1prnqh4uznxaklvxga6spr2fyjrpcxwnryzlhdpghzq9zqgz59z54qmentw6
-</code></pre>                     | BTC               | BTC   |
-| <pre><code>bc1pktqfd9xuh33xd9pj3l3y5hgp0k4lvxtuzgyym2panr9utkmuneyqepj0t8
-</code></pre>                     | BTC               | BTC   |
+</code></pre>                     | BTC, NUSD (Authorized, Out of circulation) | BTC   |
 
 ## Calculation
 
@@ -38,27 +36,5 @@ The reserves are denominated in US dollar equivalent and is made up of:
 > \= Total Backing
 
 The code for how we calculate this figure on the website can be found [here](https://github.com/bamkfi/bamkfi-landing/blob/a8321bbbea58a17738dd9e2b60fc206ce138749b/src/app/page.tsx#L250).
-
-## sUSDe Details
-
-NUSD is backed 1:1 with USDe in phase 1. The majority of this is held in the form of Staked USDe (sUSDe) which is how Ethena pays out their yield.&#x20;
-
-sUSDe is currently priced at $1.083 each and this price increases over time as Ethena's protocol revenue accumulates in their staking contract. This means our sUSDe Reserves figure will increase slightly every day, reflecting the yield earned. You can read [further details](https://ethena-labs.gitbook.io/ethena-labs/solution-design/staking-usde) about how the yield for sUSDe is paid.
-
-Holding sUSDe is the way Bamk.fi generates revenue.
-
-## Redemptions
-
-NUSD can be redeemed directly for USDe via Bamk.fi's [redeem tool](https://docs.bamk.fi/bamkfi/how-tos/redeemnusd).&#x20;
-
-We chose to give users USDe instead of sUSDe in the redeem tool because it is the most intuitive to understand - 1 NUSD = 1 USDe.&#x20;
-
-Also sUSDe is far less liquid than USDe and we expect arbitrage traders will be the most frequent user of the redeem tool.
-
-However Ethena has a 7-day cooldown period to unstake sUSDe. We therefore maintain a ratio of 10% USDe to 90% sUSDe in our reserves to facilitate instant redemptions of NUSD for users.&#x20;
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-21 at 23.37.48 2.png" alt=""><figcaption><p>Unstaking sUSDe has a 7-day cooldown period</p></figcaption></figure>
-
-Due to Ethena's policy of restarting the cooldown if additional sUSDe is unstaked from the same address, we may in the future have multiple backing addresses to better provide liquidity for redemptions.
 
 \
