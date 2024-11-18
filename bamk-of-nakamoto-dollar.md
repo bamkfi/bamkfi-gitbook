@@ -14,11 +14,13 @@ The Runes token [BAMK•OF•NAKAMOTO•DOLLAR](https://magiceden.io/runes/BAMK%
 
 1,311,625,000 (6.25%) is allocated pro-rata to [Season 1 NUSD Holders](https://app.gitbook.com/o/lfo0cE7iXE4350nipACw/s/L5vd9Yc2g4BdL74C5OqN/\~/changes/91/rewards/season-1-nusd-holders). Earn your share of 31,250 BAMK per block by simply holding NUSD in your wallet.
 
-5,000 BAMK per block is allocated to [LP providers](https://app.gitbook.com/o/lfo0cE7iXE4350nipACw/s/L5vd9Yc2g4BdL74C5OqN/\~/changes/91/rewards/rewards-for-nusd-lp-providers) in the DotSwap NUSD/BTC pool.
-
 1,311,625,000 (6.25%) is allocated to the Foundation, unlocking on the same schedule as Season 1 NUSD Holders. More details on the Foundation coming soon.
 
 The remainder of the supply is currently Unallocated.
+
+20% of the yield used to rebase NUSD is used to buy back and burn BAMK. The official burn address is [1BamkBurnXXXXXXXXXXXXXXXXXXXVQ535c](https://ordiscan.com/address/1BamkBurnXXXXXXXXXXXXXXXXXXXVQ535c/runes).
+
+5,000 BAMK per block was allocated to [LP providers](https://app.gitbook.com/o/lfo0cE7iXE4350nipACw/s/L5vd9Yc2g4BdL74C5OqN/\~/changes/91/rewards/rewards-for-nusd-lp-providers) in the DotSwap NUSD/BTC pool.
 
 ## How to buy BAMK?
 
