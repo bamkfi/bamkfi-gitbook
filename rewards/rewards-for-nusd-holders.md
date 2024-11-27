@@ -2,6 +2,10 @@
 
 _<mark style="color:green;">**NUSD Holder Season 1 rewards program is active since block 844,492 until block 886,454.**</mark>_
 
+<mark style="color:green;">**UPDATE 11/27/14:**</mark> <mark style="color:green;"></mark><mark style="color:green;">All bamk rewards up until block 872222 will be airdropped to become liquid. All remaining bamk rewards in S1 will be auctioned off daily with proceeds being rewarded natively to NUSD rebasing. There is no change to total Bamk rewards in S1. That remains at 6.25% of total supply.</mark>
+
+**UPDATE 11/1/24:** Starting block 868383, vesting period is reduced from 41,972 blocks to 0 blocks i.e. rewards will be eligible for immediate redemption upon release of tooling.
+
 ## Season 1 NUSD Holder Rewards&#x20;
 
 1,311,625,000 (6.25%) of the $BAMK supply has been offered as incentives to all Season 1 NUSD holders. **Simply buy NUSD and hold in your wallet to begin accruing BAMK tokens.** Every block between 844,492 and 886,454 - a total of 41,972 blocks will accrue 31,250 BAMK per block, distributed pro-rata to your NUSD holdings divided by the total NUSD TVL at that block height.
@@ -15,8 +19,6 @@ A dashboard to show BAMK accrued per address is in the works.
 > Vesting: 31,250 BAMK per block after block 886,454, for the next 41,972 blocks
 
 _\*Block 844,492 was when the first purchase of NUSD occurred_
-
-Starting block 868383, vesting period is reduced from 41,972 blocks to 0 blocks i.e. rewards will be eligible for immediate redemption upon release of tooling.
 
 ### Example:
 
