@@ -2,7 +2,7 @@
 
 _<mark style="color:green;">**NUSD Holder Season 1 rewards program is active since block 844,492 until block 886,454.**</mark>_
 
-<mark style="color:green;">**UPDATE 11/27/14:**</mark> <mark style="color:green;"></mark><mark style="color:green;">All bamk rewards up until block 872222 will be airdropped to become liquid. All remaining bamk rewards in S1 will be auctioned off daily with proceeds being rewarded natively to NUSD rebasing. There is no change to total Bamk rewards in S1. That remains at 6.25% of total supply.</mark>
+<mark style="color:green;">**UPDATE 11/27/14:**</mark> <mark style="color:green;"></mark><mark style="color:green;">All bamk rewards up until block 872222 will be airdropped to become liquid. All remaining bamk rewards in S1 will be auctioned off daily at</mark> [<mark style="color:green;">bamk.fi/auction</mark>](https://bamk.fi/auction) <mark style="color:green;">with proceeds being rewarded natively to NUSD rebasing. There is no change to total Bamk rewards in S1. That remains at 6.25% of total supply.</mark>
 
 **UPDATE 11/1/24:** Starting block 868383, vesting period is reduced from 41,972 blocks to 0 blocks i.e. rewards will be eligible for immediate redemption upon release of tooling.
 
