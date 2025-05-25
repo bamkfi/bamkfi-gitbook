@@ -1,6 +1,6 @@
 # Buy NUSD
 
-[Bamk.fi/swap](https://app.bamk.fi/swap/buy) offers native BTC -> NUSD Runes atomic swap with no slippage.
+[Bamk.fi Swap](https://app.bamk.fi/swap/buy) offers native BTC → NUSD Runes atomic swap with no slippage.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>Step 1) Enter desired BTC or NUSD amount</p></figcaption></figure></div>
 
@@ -24,7 +24,7 @@ A [preauthorized](../resources/issuance.md) amount of NUSD is available through 
 * [OKX](https://www.okx.com/web3/marketplace/inscription/ordinals/token/%24NUSD)
 * [Unisat](https://unisat.io/market/brc20?tick=%24NUSD)
 
-There is no difference whether you hold NUSD on BRC20-5byte or on Runes in terms of BAMK Season 1 Incentives.
+
 
 {% hint style="warning" %}
 When purchasing on secondary marketplaces, beware of fraudulent tickers.

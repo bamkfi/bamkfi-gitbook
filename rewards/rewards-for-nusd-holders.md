@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Rewards For NUSD Holders
 
 _<mark style="color:green;">**NUSD Holder Season 1 rewards program is active since block 844,492 until block 886,454.**</mark>_

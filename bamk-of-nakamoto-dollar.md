@@ -1,13 +1,15 @@
 # BAMK•OF•NAKAMOTO•DOLLAR
 
-The Runes token [BAMK•OF•NAKAMOTO•DOLLAR](https://magiceden.io/runes/BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR) was etched on April 21st 2024 with a max supply of 21,000,000,000 (21 billion)
+[BAMK•OF•NAKAMOTO•DOLLAR](https://magiceden.io/runes/BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR) is the governance rune of [Bamk.fi](https://bamk.fi/)
 
 <div align="left"><figure><img src=".gitbook/assets/bamk.png" alt="" width="188"><figcaption><p>BAMK</p></figcaption></figure></div>
 
 ## Tokenomics
 
+<div align="left"><figure><img src=".gitbook/assets/2025-05-25 08.52.03.jpg" alt=""><figcaption></figcaption></figure></div>
+
 * Public Mint - 25%
-  * 1,311,625,000 🏦 was offered as a public free mint . It took \~6 days and around $150,000 in miner fees to mint out.
+  * 1,311,625,000 🏦 was offered as a public free mint on April 21st 2024. It took \~6 days and around $150,000 in miner fees to mint out.
 * Season 1 Rewards - 25%
   * 1,311,625,000 🏦 is allocated pro-rata to NUSD holders from block 844492 to 886454.
   * S1 Rewards earned through block 872222 were airdropped as 🏦 to holders

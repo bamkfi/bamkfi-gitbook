@@ -1,8 +1,6 @@
 # Sell NUSD
 
-NUSD Runes -> BTC native swap is available at [bamk.fi/swap/sell](https://bamk.fi/swap/sell).
-
-It offers zero slippage based on the current exchange rate for the max available.
+[Bamk.fi Swap](https://bamk.fi/swap/sell) offers native NUSD Runes → BTC atomic swap with no slippage.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div>
 
@@ -12,7 +10,7 @@ Users only needs to sign their Runes UTXOs as miner fee and service fee are dedu
 
 ### BRC-20 Bridge
 
-To bridge NUSD between BRC20 (limited support) <--> Runes (recommended), contact a verified administrator to perform this service. We currently offer this swap at no charge except the BTC tx fee.
+To bridge NUSD between BRC20 (limited support) ←→ Runes (recommended), contact a verified administrator to perform this service. We currently offer this swap at no charge except the BTC tx fee.
 
 {% hint style="warning" %}
 Only administrators with "admin" or "owner" role on the [Bamk.fi Telegram](https://t.me/bamkfi) are authorized to perform this service. "mod" and other roles are only community moderators and should not be trusted to perform this service.
