@@ -20,6 +20,8 @@
 * [Negative Funding Rate Mitigation](roadmap/negative-funding-rate-mitigation.md)
 * [Nakamoto Index](roadmap/nakamoto-index.md)
 * [Bitcoin Perpetual Swaps](roadmap/bitcoin-perpetual-swaps.md)
+* [Token Protocols](roadmap/token-protocols.md)
+* [BTC Treasury](roadmap/btc-treasury.md)
 
 ## RESOURCES
 
@@ -27,5 +29,5 @@
 * [Risks](resources/risks.md)
 * [Reserves](resources/reserves.md)
 * [FAQs](resources/faqs.md)
+* [Community](resources/community.md)
 * [Media Kit](resources/media-kit.md)
-* [Further Reading](resources/further-reading.md)

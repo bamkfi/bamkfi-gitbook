@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # FAQs
 
 ### Who is the team behind Bamk.fi?

@@ -27,7 +27,7 @@ Pre-mined NUSD held at this address are not considered issued or circulating, an
 
 Authorised NUSD are sent in large batches from the pre-mined NUSD to the following address:
 
-{% hint style="success" %}
+{% hint style="info" %}
 bc1prnqh4uznxaklvxga6spr2fyjrpcxwnryzlhdpghzq9zqgz59z54qmentw6
 {% endhint %}
 
