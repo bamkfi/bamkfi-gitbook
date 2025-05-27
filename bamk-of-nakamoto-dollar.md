@@ -1,6 +1,6 @@
 # BAMK•OF•NAKAMOTO•DOLLAR
 
-[BAMK•OF•NAKAMOTO•DOLLAR](https://magiceden.io/runes/BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR) is the governance rune of [Bamk.fi](https://bamk.fi/)
+[BAMK•OF•NAKAMOTO•DOLLAR](https://magiceden.io/runes/BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR) is the governance rune of the [Bamk.fi](https://bamk.fi/) protocol.
 
 <div align="left"><figure><img src=".gitbook/assets/bamk.png" alt="" width="188"><figcaption><p>BAMK</p></figcaption></figure></div>
 
@@ -9,15 +9,16 @@
 <div align="left"><figure><img src=".gitbook/assets/2025-05-25 08.52.03.jpg" alt=""><figcaption></figcaption></figure></div>
 
 * Public Mint - 25%
-  * 1,311,625,000 🏦 was offered as a public free mint on April 21st 2024. It took \~6 days and around $150,000 in miner fees to mint out.
+  * 1,311,625,000 🏦 was offered as a public free mint on April 21st 2024. It took \~6 days and \~$150,000 in network fees to mint out.
 * Season 1 Rewards - 25%
-  * 1,311,625,000 🏦 is allocated pro-rata to NUSD holders from block 844492 to 886454.
-  * S1 Rewards earned through block 872222 were airdropped as 🏦 to holders
-  * S1 Rewards earned after block 872222 are auctioned on bamk.fi/auction and proceeds are used to rebase NUSD.
+  * 1,311,625,000 🏦 was allocated pro-rata to NUSD holders from block 844492 to 886454.
+    * S1 Rewards earned before block 872222 were airdropped to holders.
+    * S1 Rewards earned after block 872222 were auctioned on bamk.fi/auction with proceeds used to reward holders with native NUSD rebasing. NUSD will be rebased back to 1:1 with USD with NUSD holders airdropped NUSD to account for the premium.&#x20;
 * Foundation - 25%
-  * 1,311,625,000 🏦 is allocated to the core team members, developers, and contributors.
+  * 1,311,625,000 🏦 is allocated to core team members, developers, and contributors.
 * Ecosystem - 25%
-  * 25,000,000 🏦has been allocated to [LP providers](https://app.gitbook.com/o/lfo0cE7iXE4350nipACw/s/L5vd9Yc2g4BdL74C5OqN/~/changes/91/rewards/rewards-for-nusd-lp-providers) in the DotSwap NUSD/BTC pool from blocks 849215  to 854215 and 30,940,000 from blocks 863232 to 869420.
+  * 25,000,000 🏦 was allocated to Dotswap LP providers in the NUSD/BTC pool from blocks 849215  to 854215&#x20;
+  * 30,940,000 🏦 was allocated to Dotswap LP providers in the NUSD/BTC pool from blocks 863232 to 869420.
 
 ## Buy BAMK
 
