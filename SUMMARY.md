@@ -6,8 +6,7 @@
 
 ## HOW TO'S
 
-* [Buy NUSD](how-tos/mintnusd.md)
-* [Sell NUSD](how-tos/redeemnusd.md)
+* [Buy/Sell NUSD](how-tos/mintnusd.md)
 
 ## Rewards
 
@@ -31,3 +30,4 @@
 * [FAQs](resources/faqs.md)
 * [Community](resources/community.md)
 * [Media Kit](resources/media-kit.md)
+* [History of BAMK NUSD](resources/history-of-bamk-nusd.md)
