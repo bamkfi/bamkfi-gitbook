@@ -4,14 +4,14 @@
 * [BAMK•OF•NAKAMOTO•DOLLAR](bamk-of-nakamoto-dollar.md)
 * [NUSD•NUSD•NUSD•NUSD](nusd-nusd-nusd-nusd.md)
 
-## HOW TO'S
+## HOW TO
 
-* [Buy/Sell NUSD](how-tos/mintnusd.md)
+* [Buy/Sell NUSD](how-to/mintnusd.md)
 
-## Rewards
+## Incentives
 
-* [Rewards For NUSD Holders](rewards/rewards-for-nusd-holders.md)
-* [Rewards For NUSD LP Providers](rewards/rewards-for-nusd-lp-providers.md)
+* [Rewards For NUSD Holders](incentives/rewards-for-nusd-holders.md)
+* [Rewards For NUSD LP Providers](incentives/rewards-for-nusd-lp-providers.md)
 
 ## ROADMAP
 
