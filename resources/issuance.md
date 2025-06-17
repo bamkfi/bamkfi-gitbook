@@ -43,7 +43,7 @@ Secondly, maintaining an inventory of Authorised NUSD allows us to scale operati
 
 Authorised NUSD are not yet issued and not in circulation, so they are therefore not backed by the equivalent USDe or delta-neutral position and not counted in the market cap of NUSD.
 
-All authorised NUSD are held in [Bamk.fi](http://bamk.fi)’s treasury at the address(es) stated above and will not qualify for BAMK•OF•NAKAMOTO•DOLLAR rewards.
+All authorised NUSD are held in [Bamk.fi](http://bamk.fi)’s treasury at the address(es) stated above.
 
 ### Issued
 
