@@ -2,7 +2,7 @@
 
 ## Active Programs
 
-<mark style="color:green;">**Starting soon, NUSD liquidity providers will be allocated a majority portion of protocol yield. Details coming soon.**</mark>
+<mark style="color:green;">**Starting soon, NUSD liquidity providers will be allocated 80% of the yield, with 20% reserved for BAMK holders as Bitcoin accumulation.**</mark>
 
 ## Inactive Programs
 
