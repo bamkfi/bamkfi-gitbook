@@ -8,8 +8,8 @@ Alongside a reserve fund to weather these periods of negative funding, Bamk.fi w
 
 ## Funding Rate Policies on Minting and Redemptions
 
-* During positive rates on perpetuals, minting and redeeming are both open and BAMK rewards are given to holders of NUSD
-* During negative rates on perpetuals, minting is suspended until rates are positive again, redeeming is open and BAMK rewards are given pro rata to redemptions per block
+* During positive rates on perpetuals, minting and redeeming are both open
+* During negative rates on perpetuals, minting is suspended until rates are positive again, and redeeming is open
 
 The above policy means NUSD TVL will remain dynamic based on market conditions, leading to greater resiliency. &#x20;
 
