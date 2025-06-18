@@ -16,10 +16,11 @@ description: The protocol holds assets in the following addresses.
 </strong></code></pre>                        | sUSDe, USDe                                | ETH   |
 | <pre><code>0xA1203607eCa4d5fe43aDb362D3b5E201183A5948
 </code></pre>                                         | sUSDe, USDe                                | ETH   |
-| <pre><code>0xD00a4c08349d5a82df98C606262AfC4ae2d8075D
-</code></pre>                                         | sUSDe, USDe                                | ETH   |
+| <pre><code><strong>0xD00a4c08349d5a82df98C606262AfC4ae2d8075D
+</strong></code></pre>                        | sUSDe, USDe                                | ETH   |
 | <pre><code>bc1prnqh4uznxaklvxga6spr2fyjrpcxwnryzlhdpghzq9zqgz59z54qmentw6
 </code></pre>                     | BTC, NUSD (Authorized, Out of circulation) | BTC   |
+| `0xc474d85693f789AaeC5794817461A6cfD1B9d693`                                                                | sUSDe, USDe, USDT                          | ETH   |
 
 ## Calculation
 
