@@ -22,9 +22,9 @@ In finance, a delta-neutral portfolio means despite the assets you hold going up
 
 Easiest explained with an example:
 
-> BTC/USD is trading at $69,000&#x20;
+> BTC/USD is trading at $100,000&#x20;
 >
-> Your portfolio holds $10,000 worth of BTC (\~0.14492 BTC).
+> Your portfolio holds $10,000 worth of BTC (\~0.093 BTC).
 >
 > You want to keep your portfolio delta-neutral so you open a BTC short position worth $10,000 on the perpetuals pair.
 >
@@ -50,3 +50,16 @@ This means the issuance of Nakamoto Dollars comes with it's own native yield - t
 
 There are further nuances to this, when the [funding rate turns negative](https://bamkfi.gitbook.io/bamkfi-docs/roadmap/negative-funding-rate-mitigation) and short positions have to pay long positions. But with a reserve fund and careful risk management policies this can be mitigated.&#x20;
 
+### Potential Advantages of a Synthetic Dollar over Custodial Stablecoins&#x20;
+
+On-chain collateral and transparency: All backing (BTC + matching short perp) is visible and auditable in real time, removing "trust us" reserve risk.
+
+Reduced custodial exposure: No reliance on commercial banks, T-bills, or Treasury repos; mitigates freeze or seizure concerns.
+
+Censorship resistance: Minting, transferring, and redeeming happen entirely on crypto rails without centralized gatekeepers.
+
+Native yield potential: Positive funding on the short-perp leg can generate an organic return (“Bitcoin bond”) rather than idle cash reserves.
+
+24/7 liquidity & settlement: Operates continuously on-chain, avoiding banking hours and wire-transfer bottlenecks.
+
+Scalable supply: Issuance grows with available BTC liquidity instead of fiat deposit caps or banking relationships.
