@@ -2,7 +2,7 @@
 
 ## Phase 1: USDe Backing
 
-In order to bootstrap and accelerate our launch, Bamk.fi's NUSD is backed 1:1 by Ethena's USDe in phase 1 which uses a similar delta-neutral position as NUSD will use in Phase 2.
+In order to bootstrap and accelerate our launch, Bamk.fi's NUSD is backed 1:1 by Ethena's USDe in phase 1 which uses a similar delta-neutral position as NUSD will use in Phase 2. Bamk.fi may also discriminately hold backing in other stablecoins such as USDT. See [reserves.md](../resources/reserves.md "mention") for details.
 
 ## Phase 2: Delta-Neutral Positions on Bitcoin
 
