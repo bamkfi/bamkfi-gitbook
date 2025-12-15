@@ -21,8 +21,6 @@ X / Twitter: [https://x.com/bamkfi](https://x.com/bamkfi)
 Telegram: [https://t.me/bamkfi](https://t.me/bamkfi)
 
 Github: [https://github.com/bamkfi](https://github.com/bamkfi/bamkfi-frontend)
-
-Community-run directory: [https://bamk.directory/](https://bamk.directory/)
 {% endhint %}
 
 
