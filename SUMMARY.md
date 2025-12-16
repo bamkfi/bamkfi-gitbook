@@ -6,9 +6,8 @@
 
 ## HOW TO
 
-* [Mint/Redeem NUSD](how-to/mint-redeem-nusd.md)
 * [Buy/Sell NUSD](how-to/buy-sell-nusd.md)
-* [Trade with NUSD](how-to/trade-with-nusd.md)
+* [Mint/Redeem NUSD](how-to/mint-redeem-nusd.md)
 
 ## Incentives
 

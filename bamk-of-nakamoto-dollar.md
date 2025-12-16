@@ -1,6 +1,6 @@
 # BAMK•OF•NAKAMOTO•DOLLAR
 
-[BAMK•OF•NAKAMOTO•DOLLAR](https://magiceden.io/runes/BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR) is the governance rune of the [Bamk.fi](https://bamk.fi/) protocol.
+[BAMK•OF•NAKAMOTO•DOLLAR](https://magiceden.io/runes/BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR) is the governance rune of the [Bamk](https://bamk.fi/) protocol.
 
 <div align="left"><figure><img src=".gitbook/assets/bamk.png" alt="" width="188"><figcaption><p>BAMK</p></figcaption></figure></div>
 
