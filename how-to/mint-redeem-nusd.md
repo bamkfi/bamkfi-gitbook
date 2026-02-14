@@ -9,6 +9,5 @@ Only administrators with "admin" role on the [NUSD OTC Telegram](https://t.me/NU
 
 Verified deposit addresses:
 
-* bc1qau4ulc728fmtwfgvvghpu3x3qetv3tmmvudyeq
-* bc1pfash7lxwrjecyhcgn7aeamvkn2vug2nmhtz7yeuy006v2h89knyqgp9tlc
+* bc1pfuluvkjcgzjdzjy42k3djkaw8a96dune2arcedhcml2h5sea6fdse9dajg
 {% endhint %}
