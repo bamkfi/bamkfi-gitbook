@@ -27,6 +27,5 @@ BAMK is available to buy on Runes marketplaces including:
 * Dotswap
   * [BTC/BAMK](https://www.dotswap.app/swap#R_BTC_BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR)
   * [NUSD/BAMK](https://www.dotswap.app/swap#R_NUSD%E2%80%A2NUSD%E2%80%A2NUSD%E2%80%A2NUSD_BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR)
-* [OKX](https://www.okx.com/web3/marketplace/runes/token/BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR/840256:35)
-* [MagicEden](https://magiceden.io/runes/BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR)
 * [UniSat](https://unisat.io/runes/market?tick=BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR)
+* [Ordinals Wallet](https://ordinalswallet.com/collection/rune-BAMK%E2%80%A2OF%E2%80%A2NAKAMOTO%E2%80%A2DOLLAR)
