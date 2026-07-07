@@ -20,7 +20,7 @@ This further enables all positions to be transparent to the world at all times. 
 
 In finance, a delta-neutral portfolio means despite the assets you hold going up and down in price, your portfolio value remains the same.&#x20;
 
-Easiest explained with an example:
+Example:
 
 > BTC/USD is trading at $69,000&#x20;
 >
